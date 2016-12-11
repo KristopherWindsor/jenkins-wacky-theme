@@ -1,0 +1,2 @@
+#jenkins-home-link>img {display: none;}
+#jenkins-home-link:after {display: block; width: 317px; height: 40px; content: url('whale-logo.png');}
