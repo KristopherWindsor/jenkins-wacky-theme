@@ -1,2 +1,2 @@
 #jenkins-home-link>img {display: none;}
-#jenkins-home-link:after {display: block; width: 300px; height: 40px; content: url('logo.png');}
+#jenkins-home-link:after {display: block; width: 600px; height: 40px; content: url('logo.png');}
